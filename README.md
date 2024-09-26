@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Valerie Lecourbe. I am 18 years old, I'm Student, I'm French.
+- 👋 Hi, I’m Valerie Lecourbe. I am 19 years old, I'm Student, I'm French.
 - 👀 I’m interested in networks, and digital contenant.
 - 💞️ I’m looking to collaborate on digital tools, I like networks and cybersecurity.
 - 📫 How to reach me ? Here
